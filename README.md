@@ -1,12 +1,14 @@
 # Lifetrack Test
 
-Configuration for Node development API server and React frontend development environment with Babel & Webpack
+Configuration for PHP development API server and React frontend development environment with Babel & Webpack
 
 ### Install 🔧
 
 #### 1. Clone project from GitHub:
 ```sh
 git clone git@github.com/mariwin/git-lifetrack.git
+
+or via Sourcetree
 
 https://github.com/mariwin/git-lifetrack.git
 ```
