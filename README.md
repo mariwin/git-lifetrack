@@ -32,3 +32,5 @@ make update
 ```sh
 make start
 ```
+
+<img width="1279" alt="Screenshot 2020-04-04 at 8 16 17 PM" src="https://user-images.githubusercontent.com/5917443/78451640-54165b00-76b9-11ea-8b50-52b3f7b81c9f.png">
