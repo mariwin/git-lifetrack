@@ -1,0 +1,41 @@
+[
+    {
+        "name": "mc17uulm/php-routing",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mc17uulm/PHPRouting.git",
+            "reference": "5a66ee5372f50ba1ffd0322d741d0bf28c1e82e6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mc17uulm/PHPRouting/zipball/5a66ee5372f50ba1ffd0322d741d0bf28c1e82e6",
+            "reference": "5a66ee5372f50ba1ffd0322d741d0bf28c1e82e6",
+            "shasum": ""
+        },
+        "require": {
+            "ext-fileinfo": "*",
+            "php": "^7.3"
+        },
+        "time": "2020-02-20T09:57:31+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "PHPRouting\\": "."
+            }
+        },
+        "authors": [
+            {
+                "name": "mc17uulm",
+                "email": "marco.combosch@uni-ulm.de"
+            }
+        ],
+        "description": "PHP library for routing",
+        "support": {
+            "source": "https://github.com/mc17uulm/PHPRouting/tree/master",
+            "issues": "https://github.com/mc17uulm/PHPRouting/issues"
+        }
+    }
+]

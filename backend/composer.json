@@ -1,0 +1,19 @@
+{
+    "name": "",
+    "require": {
+        "mc17uulm/php-routing": "dev-master",
+        "ext-curl": "*",
+      "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "server\\": "server/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "github",
+            "url": "https://github.com/mc17uulm/PHPRouting"
+        }
+    ]
+}
